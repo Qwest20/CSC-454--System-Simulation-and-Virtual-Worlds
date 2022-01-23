@@ -1,0 +1,14 @@
+-- Important Message --
+Input in this program is handled differently than in the java version, since I could not find something similar to a
+Java Scanner within C++. Because of this, this program will instead process the input file WITHOUT parameters when
+calling the program in the terminal. In other words, while the Java program would compile and run as follows:
+
+javac Main.java
+java Main << A4Input.txt
+
+the C++ version demoed today will run as follows (note the lack of parameters going into ./Assign4):
+
+g++ -o "Assign4" main.cpp
+./Assign4
+
+Simply modify the input text file and then run the program without a "<" scanner parameter.

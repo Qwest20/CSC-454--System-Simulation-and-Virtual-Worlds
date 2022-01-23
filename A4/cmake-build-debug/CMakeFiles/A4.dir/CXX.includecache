@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ljmcm/OneDrive/Desktop/Programming/CSC 454/A4/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+float.h
+-
+
