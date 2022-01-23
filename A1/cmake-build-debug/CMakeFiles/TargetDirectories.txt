@@ -1,3 +1,0 @@
-C:/Users/ljmcm/OneDrive/Desktop/Programming/CSC 454/A1/cmake-build-debug/CMakeFiles/A1.dir
-C:/Users/ljmcm/OneDrive/Desktop/Programming/CSC 454/A1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ljmcm/OneDrive/Desktop/Programming/CSC 454/A1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
